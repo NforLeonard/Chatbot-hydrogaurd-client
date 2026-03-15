@@ -1,0 +1,2 @@
+// #.env.development - Default for local development
+VITE_API_URL = http://localhost:3002
